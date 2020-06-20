@@ -6,3 +6,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * loves 
 * chocolate 
 * cookies
+
+
+As Grace Hopper said:
+
+> I’ve always been more interested
+> in the future than in the pas
